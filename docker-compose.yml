@@ -6,4 +6,4 @@ services:
     image: alseambusher/crontab-ui
     network_mode: bridge
     ports:
-      - 8000:8000
+      - 8123:8000
